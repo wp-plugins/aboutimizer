@@ -35,6 +35,7 @@ Feel free to post any bugs, feature requests or comments on the [Aboutimizer Iss
 == Screenshots ==
 
 1. The widget interface is simple and easy to use
+2. The widget will display the information on the frontend
 
 == Changelog ==
 
