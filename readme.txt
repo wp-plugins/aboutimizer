@@ -3,8 +3,8 @@ Contributors: seriouslysean
 Donate link: http://devjunkyard.com/aboutimizer/
 Tags: About Me, Bio, Widget, Image Upload, Javascript, JS
 Requires at least: 3.5
-Tested up to: 3.8.1
-Stable tag: 1.0.0
+Tested up to: 3.9
+Stable tag: 1.0.1
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
@@ -38,6 +38,10 @@ Feel free to post any bugs, feature requests or comments on the [Aboutimizer Iss
 2. The widget will display the information on the frontend
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Updating readme for WordPress 3.9
 
 = 1.0.0 =
 
