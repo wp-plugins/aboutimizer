@@ -4,7 +4,7 @@ Donate link: http://devjunkyard.com/aboutimizer/
 Tags: About Me, Bio, Widget, Image Upload, Javascript, JS
 Requires at least: 3.5
 Tested up to: 3.9
-Stable tag: 1.0.2
+Stable tag: 1.0.3
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
@@ -39,7 +39,7 @@ Feel free to post any bugs, feature requests or comments on the [Aboutimizer Iss
 
 == Changelog ==
 
-= 1.0.2 =
+= 1.0.3 =
 
 * Updating readme for WordPress 3.9
 
