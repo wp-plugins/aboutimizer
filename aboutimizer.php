@@ -5,7 +5,7 @@ Plugin URI: https://github.com/seriouslysean/aboutimizer
 Description: The Aboutimizer adds an about me widget that you can customize with a photo and description.
 Author: Sean Kennedy
 Author URI: http://devjunkyard.com
-Version: 1.0.1
+Version: 1.0.2
 License: MIT
 */
 if (!defined('ABSPATH')) exit;
@@ -19,7 +19,7 @@ if (!class_exists('Aboutimizer')):
 
         const NAME = 'Aboutimizer';
         const NAME_LOWER = 'aboutimizer';
-        const VERSION = '1.0.1';
+        const VERSION = '1.0.2';
         const SLUG = 'aboutimizer';
         const DOWNLOAD_URL = 'http://wordpress.org/plugins/aboutimizer';
 
